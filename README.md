@@ -2,13 +2,13 @@
 We need to install some modules (
 
 
- import libraries,
-from bs4 import BeautifulSoup,
-from selenium import webdriver,
-import pandas as pd,
-import datetime, re, time, itertools, smtplib, ssl,
-from email.mime.text import MIMEText,,
-from email.mime.multipart import MIMEMultipart
+(1) import libraries
+(2)from bs4 import BeautifulSoup,
+(3)from selenium import webdriver,
+(4)import pandas as pd,
+(5)import datetime, re, time, itertools, smtplib, ssl,
+(6)from email.mime.text import MIMEText,,
+(7)from email.mime.multipart import MIMEMultipart
 
 )
  ABOUT PROJECT
